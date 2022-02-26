@@ -1,1 +1,1 @@
-# Amazon-Data-for-analysis and Visualization
+# Amazon Data for Analysis and Visualization
